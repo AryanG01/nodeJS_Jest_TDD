@@ -1,0 +1,2 @@
+20240605	10:36:28	50d81c9b-51de-4bfc-a852-13705676c608	Error: Not allowed by CORS
+20240605	10:36:30	5157e40c-068d-445d-b9c0-c435702ec3d2	Error: Not allowed by CORS
