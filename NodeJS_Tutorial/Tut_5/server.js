@@ -98,8 +98,8 @@ const server = http.createServer((req, res) => {
                 res.end();
                 break;
             default:
-            // 404 request
-            serveFile(path.join(__dirname, 'views', '404.html'), 'text/html', res);
+                // 404 request
+                serveFile(path.join(__dirname, 'views', '404.html'), 'text/html', res);
         }
     }
 });
