@@ -5,7 +5,6 @@
   },
   "scripts": {
     "start": "node index",
-    "server": "nodemon server.js",
     "dev": "nodemon index"
   },
   "name": "tut_3",
