@@ -1,6 +1,6 @@
 function fetchData(callback) {
     setTimeout(() => {
-        callback('peanut butter')
+        callback('peanut butter');
     }, 1000);
 }
 
